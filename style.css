@@ -1,0 +1,19 @@
+h1 {
+    background-color: aqua;
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a { 
+    font-size: 22px;
+}
+h2 {
+    background-color: blueviolet;
+     color:white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
